@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDoQqSeoYRZ5mmKRzfJ-MoOHZHhi1R5rf8",
+  apiKey: "",
   authDomain: "whatsapp-clone-770e5.firebaseapp.com",
   projectId: "whatsapp-clone-770e5",
   storageBucket: "whatsapp-clone-770e5.appspot.com",
-  messagingSenderId: "259943417311",
-  appId: "1:259943417311:web:cc6438b39dd3e25fe7b06a"
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
